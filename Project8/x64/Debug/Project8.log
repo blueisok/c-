@@ -1,0 +1,6 @@
+﻿  test_3_31.cpp
+C:\c\c2\Project8\test_3_31.cpp(28,25): error C2440: “初始化”: 无法从“char **”转换为“const char **”
+C:\c\c2\Project8\test_3_31.cpp(28,19): message : 转换丢失限定符
+C:\c\c2\Project8\test_3_31.cpp(34,9): error C2664: “void my(const char **)”: 无法将参数 1 从“char **”转换为“const char **”
+C:\c\c2\Project8\test_3_31.cpp(34,5): message : 转换丢失限定符
+C:\c\c2\Project8\test_3_31.cpp(17,6): message : 参见“my”的声明
