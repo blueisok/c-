@@ -72,6 +72,7 @@ int main()
 	sprintf(buf, "%d %f %s", s.a, s.m, s.arr);
 	//将格式化的数据转换为字符串放在buf中
 	sscanf(buf, "%d %f %s", &(tem.a), &(tem.m), tem.arr );
+	//将buf中读取的格式化数据到tem中
 	printf("%d %f %s", tem.a, tem.m, tem.arr);
 	return 0;
 }
