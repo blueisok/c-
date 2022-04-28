@@ -1,0 +1,3 @@
+﻿  test_4_28.c
+C:\c\c2\Project36\test_4_28.c(48,10): warning C4013: “printf”未定义；假设外部返回 int
+  Project36.vcxproj -> C:\c\c2\Project36\x64\Debug\Project36.exe
